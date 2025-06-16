@@ -4,7 +4,10 @@ All projects completed as part of freeCodeCamp’s Machine Learning with Python 
 2. book recommendation model
 3. SMS text classifier
 4. Linear Regression health costs calculator
-   I worked on these projects on google colab notebook (cloud based version of jupyter notebook) . the libraries that i have used are , Pandas – for data analysis and manipulation
+
+I worked on these projects on google colab notebook (cloud based version of jupyter notebook) .
+the libraries that i have used are ,
+Pandas – for data analysis and manipulation
 
 NumPy – for numerical operations
 
