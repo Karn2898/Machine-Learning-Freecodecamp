@@ -51,6 +51,6 @@ I worked on these projects on Google Colab notebook (cloud-based version of Jupy
 - **Seaborn** – for statistical plotting (used in some visualizations)
 - **Scikit-learn (sklearn)** – for machine learning algorithms like KNN, train-test split, and model evaluation
 
-## 🏆 Certificate
+## Certificate
 
 ![Certificate](./certificate.png)
